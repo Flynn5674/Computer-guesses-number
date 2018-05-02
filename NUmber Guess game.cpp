@@ -5,7 +5,7 @@
 using namespace std;
 
 /*********************************************
-**  Josh Hudgin                             **
+**                                          **
 **  Spring semester 2018                    **
 **  CIS 252                                 **
 **  Final Project                           **
